@@ -1,0 +1,6 @@
+You: Alexa, start memory game
+Alexa: Welcome to memory game. I'm going to say three numbers for you to repeat backwards. Ready?
+You: Yes
+Alexa: Can you repeat the numbers 9, 1, 3 backwards?
+You: Three, one, nine.
+Alexa: Good job!
